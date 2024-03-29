@@ -6,15 +6,16 @@
 - 🐞 Criadora de bugs ocasionalmente, mas aprendendo com eles.
 - 🎥 Edições de vídeos no tempo livre
 
-![](https://github-readme-stats.vercel.app/api?username=gabinascimento1&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabinascimento1&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
- <div>
+<div>
   <a href="https://instagram.com/gah.nascimento" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/gabrielatld" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielatld1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielatld1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+</div>
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=gabinascimento1&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabinascimento1&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Skills:
 
