@@ -2,7 +2,6 @@
 
 ## Sobre mim
 - 👩🏻‍💻 Estudante de Desenvolvimento Front-End
-- 🇧🇷 Brasileira, vivendo em Portugal há 6 anos 🇵🇹
 - 🐞 Criadora de bugs ocasionalmente, mas aprendendo com eles.
 - 🎥 Edições de vídeos no tempo livre
 
