@@ -13,8 +13,10 @@
 </div>
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=gabinascimento1&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabinascimento1&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabinascimento1&theme=omni&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinascimento1&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ## Skills:
 
